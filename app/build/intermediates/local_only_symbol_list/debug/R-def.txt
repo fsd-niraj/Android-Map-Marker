@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_cancel
+id btn_save
+id loc_description
+id loc_rating
+id loc_title
+id map
+layout activity_main
+layout location_save_sheet
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MapsAndroid
+style Theme.MapsAndroid
+xml backup_rules
+xml data_extraction_rules
